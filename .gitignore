@@ -28,7 +28,7 @@ nbproject
 /typo3
 /typo3_src
 /typo3_src-*
-/Packages
+/packages
 /.htaccess
 /index.php
 # Ignore temp directory.
