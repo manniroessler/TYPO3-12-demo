@@ -1,0 +1,3 @@
+              - name: Render TYPO3 Documentation
+                uses: TYPO3-Documentation/gh-render-action@0.1.0
+            
