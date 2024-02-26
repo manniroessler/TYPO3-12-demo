@@ -2,6 +2,7 @@
 .idea
 nbproject
 /var/*
+
 !/var/labels
 /vendor
 /public/*
